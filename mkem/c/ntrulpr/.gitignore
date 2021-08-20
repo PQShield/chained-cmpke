@@ -1,0 +1,5 @@
+*.o
+*.a
+test_mkem
+test_speed
+test_ntrulpr
